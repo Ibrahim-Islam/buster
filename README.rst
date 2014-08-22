@@ -57,6 +57,8 @@ Requirements
 -  wget: Use ``brew install wget`` to install wget on your Mac.
    Available by default on most linux distributions.
 
+-  wget: Download `wget <http://sourceforge.net/projects/gnuwin32/files/wget>`__ for Windows and add its *bin* to *Path*  
+
 The following python packages would be installed automatically when
 installed via ``pip``:
 
